@@ -1,7 +1,6 @@
 {% assign experiences = site.data.data.experiences %}
 {% if experiences %}
-<div class="gap-navbar" id="s-experiences"></div>
-<section class="section experiences-section">
+<sectionwithgap class="section experiences-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
@@ -36,6 +35,6 @@
   </div>
   {% endfor %}
 
-</section>
+</sectionwithgap>
 {% endif %}
 
