@@ -160,35 +160,31 @@ skills-tech:
 achievements:
     title: Achievements
     contributions:
-      - desc: "Implemented a performance monitoring dashboard using SQL Server, .Net Core, and Google Data Studio"
-        links:
-          - url: https://ikankita.org
-            urldesc: Ikankita
-            urlatt:
-      - desc: "Collaborated with cross-functional team to deploy cutting-edge mobile app, simplifying payment and class management for parents, students, and educators while ensuring security and reliability"
+      - desc: "Led and organised a team to deliver a seamless, robust, and secure mobile application that facilitates payment and class management across parents, students, and educators in the Singapore region"
         links:
           - url: https://play.google.com/store/apps/details?id=com.tuut
-            urldesc: Google Play
+            urldesc: Google PlayStore
             urlatt:
           - url: https://apps.apple.com/sg/app/tuut/id6446396937
-            urldesc: App Store
+            urldesc: Apple AppStore
             urlatt:
-      - desc: "Manage a team of three to conduct core data system migration to a data centre in Kuala Lumpur, Malaysia"
+      - desc: "Developed and implemented a performance monitoring dashboard called ikankita.org using SQL Server, .Net core, and Google Data Studio"
         links:
-      - desc: "Organised teams to implement core applications that serves retail customers and back-office users"
-        links:
-      - desc: "Oversaw outsourced team to build and deliver comprehensive corporate profile website with content management system"
+          - url: https://ikankita.org
+            urldesc: ikankita.org
+            urlatt:
+      - desc: "Orchestrated a team to deploy a company profile website complete with its content management system"
         links:
           - url: https://www.kdbtifa.co.id/en
-            urldesc: KDBTifa
+            urldesc: kdbtifa.co.id
             urlatt:
           - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
-            urldesc: KDBTifa CMS
+            urldesc: CMS
             urlatt:
-      - desc: "Deployed and operated a customised ERP system in Xen servers to serve sales, business, and operational activities. A trial site is available as the following:"
+      - desc: "Administer a customised ERP system during an upgrade process, including providing a staging site for trial"
         links:
           - url: http://202.157.189.196:7799
-            urldesc: Efinance ERP System
+            urldesc: ERP System
             urlatt: |
               User ID: herryzh1 <br>
               Password: H3l2ryzh07~
@@ -201,59 +197,39 @@ experiences:
         company: Xcidic Pte. Ltd, Singapore • IT Solution Provider
         site: https://xcidic.com
         details: |
-          Implemented server virtualisation environments to facilitate organisational operations. <br>
-          Organise, develop, and maintain the entire infrastructure to serve organisational objectives. <br>
-          Conducted system requirement gathering session to align with business unit goals. <br> 
-          Leveraged extensive research findings to develop actionable recommendations. <br> 
-          Orchestrated compelling presentations and persuasive communications to garner buy-in from both internal and external stakeholders. <br><br>
-          Achievements:
-            - Collaborated with cross-functional team to deploy cutting-edge mobile app, simplifying payment and class management for parents, students, and educators while ensuring security and reliability
-            - Established front-end and back-end code-base templates for web applications using the Typescript framework (React, NestJS)
-            - Established mobile app code-base templates in Typescript using React Native and Ignite boilerplate
-            - Implemented ITSM to the ongoing product maintenance
-            - Implemented project life-cycle procedure as a company guideline to manage projects
-      - role: System Administrator
+            - Led, organised, implemented, and preserved the entire infrastructure environment to serve organisational objectives and operations. Fulfil 98% of the Service Level Agreement (SLA) in most aspects.
+            - Orchestrated requirement gathering session to align with internal and external stakeholders. More than 96% of the requirements have been delivered accordingly and in a timely manner.
+            - Led a team to deploy a cutting-edge mobile app that is secure and reliable, simplifying payment and class management for parents, students, and educators. It contributes up to 40% of the organisation’s annual income.
+            - Established code-base templates and DevSecOps procedures to accelerate the development process up to 50% while making it secure and reliable by implementing Software Composition Analysis (SCA) tools.
+            - Implemented ITSM in product maintenance, which increased the continuity of the strategic partnership with the client by up to 85%.
+      - role: System Engineer
         time: Apr 2019 - May 2022
         company: Korea Development Bank - Tifa Finance • Finance & Leasing Company
         site: https://www.kdbtifa.co.id/en
         details: |
-          Implemented new technology and systems, orchestrating workshops and training sessions <br>
-          Conducted comprehensive research to assess organisation's current operations, including employee interviews and quantitative data collection <br>
-          Explored diverse solutions, evaluating risks, benefits, and impacts <br>
-          Presented impactful recommendations to organisational leaders while ensuring consistent progress updates <br><br>
-          Achievements:
-            - Oversaw outsourced team to build and deliver comprehensive corporate profile website with content management system
-            - Deployed and operated a customised ERP system in Xen servers to serve sales, business, and operational activities
-            - Established and configured server virtualization using XCP-ng
-            - Established B2B integration using a micro-services application and a secure open-source API gateway
-            - Established and configured Git repository environment under the Ubuntu Linux platform
-            - Established a standard decision support system in the form of dashboard performance views using Data Studio tools
+            - Explored diverse solutions, evaluating risks, benefits, and impacts, then presented impactful recommendations to the executives while ensuring consistent progress updates. 85% of the inputs were successfully approved and executed.
+            - Implemented advanced technology and systems. On average, there were 3 new advancements deployed each year.
+            - Organise workshops and training sessions. Successfully presented the material and gathered positive feedback from the audience.
+            - Led a team to build and deliver a comprehensive corporate profile website with a content management system. This channel increased the number of potential customers by more than 70%.
+            - Directed a team to deploy and operate a customised ERP system on Xen servers to directly support the business and operational activities. The system had effectively converted 95% of the entire manual process to digital.
+            - Established a B2B system integration by deploying an application with the microservices concept. The integration reduced the operational costs by 30% annually.        
       - role: System Support Engineer
         time: Jan 2012 - Feb 2019
         company: Manulife Financial - Life Insurance Company
         site: https://www.manulife.co.id
         details: |
-          Assessed business processes, predicted demands, identified areas for enhancement, and executed solutions <br>
-          Spearheaded continuous assessments of business processes <br>
-          Improved knowledge of cutting-edge process and IT advancements for system automation and modernisation <br>
-          Conducted engaging meetings and delivered impactful presentations to communicate ideas and discoveries <br><br>
-          Achievements:
-            - Managed a team of three to conduct core data system migration to a data centre in Kuala Lumpur, Malaysia
-            - Managed a DevOps team to deliver a qualified service solution and products in a timely fashion 
-            - Implemented an external website with mobile device compatibility using AngularJS and .Net framework
+            - Spearheaded the continuous improvement of system and process automation. Deployed an automated End-of-Day scheduler that cut the cost of the operators.
+            - Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs. More than 96% of the requirements were delivered accordingly and in a timely manner.
+            - Led a team to execute a core system migration to a data centre in Kuala Lumpur, Malaysia. The new environment had enhanced the system’s performance by up to 25% compared to the previous environment.
+            - Implemented a revamped responsive application that serves retail customers using various devices. The channel increased sales lead generation by 35%.
       - role: Technical Analyst
         time: Nov 2005 - Jan 2012
         company: Mega Auto Finance - Motorcycle Leasing Company
         site: http://www.maf.co.id
         details: |
-          Developed, architected, and executed robust IT infrastructure <br>
-          Engaged and cultivated partnerships with key stakeholders to comprehend and fulfil organisational needs <br>
-          Solicited feedback from end users to drive iterative enhancements and optimise system performance <br>
-          Collaborated with cross-functional teams, including Developers and IT Managers, to deliver and deploy cutting-edge technology solutions <br><br>
-          Achievements:
-            - Organised teams to implement core applications that serves retail customers and back-office users
-            - Improved a payment collection module by accelerating its processing time up to 95%
-            - Averaged 98% of service level agreements in delivering resolution based on the submitted tickets
+            - Developed, architected, and executed robust IT infrastructure. Successfully implemented server ecosystem by using VMware.
+            - Collaborated with cross-functional teams to deliver and deploy an upgraded core system. It supported 98% of the entire business process for both retail customers and internal back-office users.
+            - Deployed enhancements to improve payment collection processing time to less than 0.5 second on average.
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
