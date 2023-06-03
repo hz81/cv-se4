@@ -181,7 +181,7 @@ achievements:
           - url: https://www.kdbtifa.co.id/backend/backend/auth/signin
             urldesc: CMS
             urlatt:
-      - desc: "Administer a customised ERP system during an upgrade process, including providing a staging site for trial"
+      - desc: "Administered a customised ERP system during an upgrade process, including providing a staging site for trial"
         links:
           - url: http://202.157.189.196:7799
             urldesc: ERP System
